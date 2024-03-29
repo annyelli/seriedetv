@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">   
+    <title> Série de TV </title>
+    </head>
+    <head> 
+        <link rel="stylesheet" href="style.css">
+    </head>
+<body> 
+    <style> 
+        
+     @font-face {
+        font-family: 'Brogte';
+        src: url('Brogte') format('opentype'), url('Brogte') format('truetype');
+        font-style: normal;
+        font-weight: normal;
+                   
+    }
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            background-image: url(logo_outlander.jpg);
+            background-position:center; 
+            /* background-repeat: no-repeat; */
+            background-size: cover;
+            /* cover serve para preencher a janela toda do html */
+            /* para adicionar uma imagem de fundo, clicar CTRL+ESPAÇO */
+   }
+    h4{
+        font-family: 'Brogte', normal;
+    }
+    </style>
+   
+        <div class="header">
+            <img src="logo.png" width="1000" height="100">
+       
+        </div>
+        <br>
+
+    </body>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br> 
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ 
+ 
+     <body> <p> <h4> "Outlander" é uma série de televisão baseada nos romances de Diana Gabaldon, que combina elementos de romance, ficção histórica e viagem no tempo. A trama gira em torno de Claire Randall, uma enfermeira britânica durante a Segunda Guerra Mundial, que misteriosamente viaja de volta no tempo para o século XVIII, encontrando-se no meio dos conflitos das Highlands escocesas. Lá, ela se vê envolvida em intrigas políticas, paixões avassaladoras e lutas pela sobrevivência, enquanto tenta encontrar uma maneira de retornar ao seu próprio tempo. </h4> <br>  
+    
+        <div class="img">
+             <img src="outland.jpg" width="400" img="left"></p>
+             
+        </div>  
+
+        <p> <h4> No decorrer da série, Claire é forçada a se adaptar a essa nova realidade enquanto lida com o choque cultural entre os costumes do século XVIII e os do século XX. Ela se torna parte de um mundo onde a política, a guerra e o amor se entrelaçam de maneira complexa. Enquanto tenta encontrar uma maneira de voltar para sua época e seu marido no século XX, Claire também se vê dividida entre dois homens: Jamie Fraser, um nobre guerreiro escocês, e Frank Randall, seu marido no século XX. A série retrata suas lutas pessoais, seus sacrifícios e suas paixões em meio a um contexto histórico turbulento.</h4> </p>
+
+        <img src="claire e jamie.jpg" width="400"> </p>
+
+        <p> <h4> "Outlander" é uma saga cativante que combina habilmente romance, história e aventura, levando os espectadores a uma jornada através do tempo e das emoções humanas. Com sua narrativa envolvente e personagens complexos, a série explora temas universais como amor, lealdade, honra e destino. Ao longo de suas temporadas, "Outlander" conquistou uma base de fãs dedicada e crítica positiva, tornando-se uma das produções mais aclamadas da televisão contemporânea. Sua capacidade de mesclar elementos históricos com uma narrativa emocionante e personagens cativantes a torna uma experiência imperdível para os amantes de dramas épicos e históricos.</h4></p>
+        <div class="imagem"> 
+             <img src="jamie e randall.jpg" width="400"> <h4></p> </body>  
+        </div>
+            
+
+    
+
+  
+         <!--     /*Tipos de formatos:
+            Opentype (otf)
+            truetype (ttf)
+            embedded-opentype*/ -->
+
+</html> 
